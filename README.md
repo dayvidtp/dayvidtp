@@ -26,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+<h3 align="left">GitHub Stauts</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayvidtp&show_icons=true&locale=en&layout=compact" alt="dayvidtp" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dayvidtp=anuraghazra&show_icons=true&theme=drakula)
