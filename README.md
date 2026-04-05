@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dayvid Toledo</h1>
-<h3 align="center">A front-end web developer from Brazil</h3>
+<h3 align="center">A back-end web developer from Brazil</h3>
 
 
 
-- 🌱 I’m currently learning **System Development | .NET C# | JavaScript**
+- 🌱 I’m currently learning **System Development | .NET C# **
 
-- 💬 Ask me about **29 years. Currently an app driver, I'm studying programming at Senac College. I am very dedicated and always ready for new challenges.**
+- 💬 Ask me about **31 years. I am very dedicated and always ready for new challenges.**
 
 
 <h3 align="left">Connect with me:</h3>
